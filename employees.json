@@ -1,0 +1,7 @@
+{
+    "employees":[
+        {"firstname": "Deneme1", "age": 20, "retired": false},
+        {"firstname": "Deneme2", "age": 50, "retired": true},
+        {"firstname": "Deneme3", "age": 25, "retired": false}
+    ]
+}
